@@ -3,8 +3,6 @@
 This project focuses on automating the end-to-end checkout process of an e-commerce website using Selenium WebDriver with Python.
 The automation validates key user interactions such as logging in, adding products to the cart, completing checkout steps, validating forms, selecting payment options, and confirming a successful order.
 
-Demo Website Used:
-http://www.automationpractice.pl/index.php
 
 **Objectives**
 
