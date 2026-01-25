@@ -18,11 +18,11 @@ Capture screenshots as execution evidence
 
 **Application Under Test (AUT)**
 
-Parameter	Details
-Application Name	Automation Practice
-URL	http://www.automationpractice.pl/index.php
+Application Name:	Automation Practice
 
-Application Type	Web-based E-Commerce Application
+URL:	
+
+Application Type:	Web-based E-Commerce Application
 
 **Test Scenarios**
 
