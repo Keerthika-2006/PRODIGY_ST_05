@@ -20,7 +20,7 @@ Capture screenshots as execution evidence
 
 Application Name:	Automation Practice
 
-URL:	
+URL: http://www.automationpractice.pl/index.php
 
 Application Type:	Web-based E-Commerce Application
 
